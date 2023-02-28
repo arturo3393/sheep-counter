@@ -1,3 +1,1 @@
-# Project developed with React and listen events
-
-
+# Project developed with React and made to listen events.
