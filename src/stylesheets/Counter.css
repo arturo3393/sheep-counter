@@ -1,4 +1,4 @@
-.counter{
+.counter {
     min-width: 300px;
     height: 300px;
     font-size: 160px;
@@ -13,10 +13,10 @@
 
 @media screen and (max-width: 860px) {
 
-    .counter{
+    .counter {
         padding: 2px;
-        height: 60%;     
-        
+        height: 60%;
+
     }
 
 }
