@@ -22,7 +22,7 @@ function App() {
     <div className='App'>
 
       <div className='title-container'>
-        <h1>Use the buttons to count the sheeps</h1>
+        <h1>Use the buttons to count the sheep</h1>
       </div>
 
       <div className='main-container'>
